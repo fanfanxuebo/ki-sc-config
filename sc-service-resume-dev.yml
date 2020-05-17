@@ -1,5 +1,5 @@
 mamba:
-  kyrie: kyrie
+  kyrie: kyrie1
 spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
