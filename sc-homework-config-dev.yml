@@ -11,3 +11,6 @@ spring:
       naming:
         #避免将驼峰命名转换为下划线命名
         physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
+ip:
+  minute: 10
+  times: 3
